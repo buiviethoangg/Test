@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 33453a9e4bee43f40bde576ee17165c5
   m_currentHash:
     serializedVersion: 2
-    Hash: 5cbcca68873d4292ff73ff0987045692
+    Hash: 52e8c36fa3d10536566e4eecd903d49a
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -62,7 +62,7 @@ MonoBehaviour:
       - m_Id: 69b787557488ab14da2345204ef1de85
         m_Value: ServerData/[BuildTarget]
       - m_Id: 6daea4b0bb2a34c49b42a07739bc25c0
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://github.com/buiviethoangg/Test/tree/master/ServerData/StandaloneWindows64
       - m_Id: c8227e46d7f6bb0459ddcf52c628d5b3
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
       - m_Id: dae6fa50b02db3441a6dcc0938adbc59
