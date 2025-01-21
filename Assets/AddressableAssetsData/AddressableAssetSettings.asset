@@ -15,9 +15,9 @@ MonoBehaviour:
   m_DefaultGroup: 66b437bc9c6fbb8409b98dd029630c83
   m_currentHash:
     serializedVersion: 2
-    Hash: 887ac68a6a07586a7da4b9de15f1edcb
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 1
+  m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
@@ -62,7 +62,7 @@ MonoBehaviour:
       - m_Id: 5a12a37bc0bf7234c88044b211624efa
         m_Value: http://[PrivateIpAddress]:[HostingServicePort]
       - m_Id: 98c93951f7f92e2478289dcf6dedcafe
-        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+        m_Value: https://github.com/buiviethoangg/Test/tree/master/ServerData/Android
       - m_Id: a9762c0b0b63c724f9922f06ab1be77e
         m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
       - m_Id: bb623d671d4c4af40924513d485938a5
