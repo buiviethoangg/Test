@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: 'My Packed Assets '
+  m_EditorClassIdentifier: 
+  m_GroupName: 'My Packed Assets '
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 66b437bc9c6fbb8409b98dd029630c83
+  m_SerializeEntries:
+  - m_GUID: 141ec71999c29c1488c3d0f0480bdeb6
+    m_Address: Assets/Prefab/Capsule.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Obj
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 669e1bc32428145458e5c2be47d7a3f5
+    m_Address: Assets/Scenes/Menu.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9afbaf8cda43ecd4b9ac6fd6da20729b
+    m_Address: Assets/Prefab/Circle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Obj
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3d8658dc26100814286aa07b887e61ed, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 641279b9fbb8ccc49b65b798df34f8fa, type: 2}
+    - {fileID: 11400000, guid: 3ac7c9212b185a241bacba4b2b65555b, type: 2}
