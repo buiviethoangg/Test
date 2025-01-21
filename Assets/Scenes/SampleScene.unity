@@ -233,7 +233,7 @@ MonoBehaviour:
     m_SubObjectType: 
     m_EditorAssetChanged: 0
   _objLayble:
-    m_LabelString: Obj
+    m_LabelString: default
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

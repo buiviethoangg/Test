@@ -16,7 +16,9 @@ public class Test : MonoBehaviour
     AsyncOperationHandle handle;
     private void Start()
     {
-        
+        Spawn();
+
+
     }
     public void Spawn()
     {
