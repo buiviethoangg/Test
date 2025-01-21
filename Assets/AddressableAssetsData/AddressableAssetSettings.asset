@@ -58,13 +58,13 @@ MonoBehaviour:
       m_ProfileName: Default
       m_Values:
       - m_Id: 1f05f92357ad226438a07b15a37e7930
-        m_Value: ServerData/[BuildTarget]
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
       - m_Id: 5a12a37bc0bf7234c88044b211624efa
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: 98c93951f7f92e2478289dcf6dedcafe
         m_Value: https://github.com/buiviethoangg/Test/tree/master/ServerData/Android
       - m_Id: a9762c0b0b63c724f9922f06ab1be77e
-        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+        m_Value: ServerData/[BuildTarget]
       - m_Id: bb623d671d4c4af40924513d485938a5
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
     m_ProfileEntryNames:
